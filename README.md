@@ -1,2 +1,2 @@
-# calculator
+# calculator: python-math-wizard
 first project
